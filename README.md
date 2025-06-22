@@ -35,7 +35,7 @@ This is a DBS iBanking transaction tracker that fetches transaction data from yo
    ```
 
 ### Running the Application
-1. Run the Streamlit application ([app.py](app.py)) from your terminal in the directory containign app.py:
+1. Run the Streamlit application ([app.py](app.py)) from your terminal in the directory containing app.py:
    ```bash
    streamlit run app.py
    ```
